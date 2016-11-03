@@ -91,3 +91,5 @@ gulp.task("createpackage", ["preparerelease"], function () {
 });
 
 gulp.task("release", ["createpackage", "nuget"]);
+
+gulp.task("default", ["build"]);

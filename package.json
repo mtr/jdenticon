@@ -31,5 +31,8 @@
   "author": "Daniel Mester Pirttijärvi",
   "license": "Zlib",
   "homepage": "https://github.com/dmester/jdenticon",
-  "types": "./index.d.ts"
+  "types": "./index.d.ts",
+  "scripts": {
+    "prepublish": "gulp"
+  }
 }
