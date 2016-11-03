@@ -29,7 +29,7 @@
     "avatar"
   ],
   "author": "Daniel Mester Pirttijärvi",
-  "license": "zlib license",
+  "license": "Zlib",
   "homepage": "https://github.com/dmester/jdenticon",
   "types": "./index.d.ts"
 }
