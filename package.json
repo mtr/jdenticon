@@ -33,7 +33,6 @@
   "homepage": "https://github.com/dmester/jdenticon",
   "types": "./index.d.ts",
   "scripts": {
-    "prepublish": "gulp",
-    "preinstall": "gulp"
+    "prepublish": "gulp"
   }
 }
